@@ -27,7 +27,8 @@ Notice that data for the plot are stored in "results.json". One needs to record 
  from the running script and store to "results.json". 😅😅
 
 ## To-do List
-- Revise result\_to\_csv.py
-- change\_test\_to\_proper\_data.py
+- Calculate the performance of bert-base-chinese for span-selection.
+- Calculate the performance of different model on multi-selection.
+- Do the non-pretrained performance.
 
 ## Have a nice journey ~~ ^-^

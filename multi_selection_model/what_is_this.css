@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(200, 197, 197);
+}
+
+.question{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.step{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.step4{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap; 
+    flex-direction: column;
+    height : 700px;
+    font-size: 40px;
+}
+
+
